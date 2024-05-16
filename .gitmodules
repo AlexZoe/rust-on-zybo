@@ -1,0 +1,3 @@
+[submodule "project-spec/meta-rust"]
+	path = project-spec/meta-rust
+	url = https://github.com/meta-rust/meta-rust.git
