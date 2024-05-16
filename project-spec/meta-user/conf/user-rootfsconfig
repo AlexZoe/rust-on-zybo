@@ -4,3 +4,4 @@
 CONFIG_gpio-demo
 CONFIG_peekpoke
 CONFIG_standalone-app
+CONFIG_table-database
