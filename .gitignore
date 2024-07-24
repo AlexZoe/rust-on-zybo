@@ -1,6 +1,8 @@
 */*/config.old
 */*/rootfs_config.old
 build/
+target
+Cargo.lock
 images/linux/
 pre-built/linux/
 .petalinux/*
